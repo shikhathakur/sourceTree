@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 "main file"
 this is me
@@ -7,7 +6,4 @@ this is me
 "this is not me"
 "gghkhkjhk"
 "this is merge "
-=======
-"gkjhkjhlk"
-"this is developer merge"
->>>>>>> 4dfc37033c6ae1eda96dcdc56ad41c7ab82c402d
+jmghjhg
