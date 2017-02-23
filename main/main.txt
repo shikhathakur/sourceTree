@@ -3,7 +3,3 @@
 "main file"
 this is me
 "this is developer branch"
-"this is me"
-"this is not me"
-"gghkhkjhk"
-"this is merge "
