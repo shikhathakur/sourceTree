@@ -2,12 +2,10 @@
 "main file"
 this is me
 "this is developer branch"
-<<<<<<< HEAD
 "this is me"
 "this is not me"
 "gghkhkjhk"
 "this is merge "
 jmghjhg
-=======
-"this is me"
->>>>>>> parent of 7346a71... "this is master"
+
+
